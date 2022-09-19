@@ -1,0 +1,16 @@
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\obj\Debug\net5.0\Sphinx.csproj.AssemblyReference.cache
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\obj\Debug\net5.0\Sphinx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\obj\Debug\net5.0\Sphinx.AssemblyInfoInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\obj\Debug\net5.0\Sphinx.AssemblyInfo.cs
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\obj\Debug\net5.0\Sphinx.csproj.CoreCompileInputs.cache
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\bin\Debug\net5.0\Sphinx.exe
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\bin\Debug\net5.0\Sphinx.deps.json
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\bin\Debug\net5.0\Sphinx.runtimeconfig.json
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\bin\Debug\net5.0\Sphinx.runtimeconfig.dev.json
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\bin\Debug\net5.0\Sphinx.dll
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\bin\Debug\net5.0\ref\Sphinx.dll
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\bin\Debug\net5.0\Sphinx.pdb
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\obj\Debug\net5.0\Sphinx.dll
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\obj\Debug\net5.0\ref\Sphinx.dll
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\obj\Debug\net5.0\Sphinx.pdb
+C:\Users\Skylan\Desktop\Epicodus\Projects\csharpdotnet\sphinx\obj\Debug\net5.0\Sphinx.genruntimeconfig.cache
